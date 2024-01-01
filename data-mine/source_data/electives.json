@@ -1,0 +1,122 @@
+{
+  "CS": {
+    "DE1": {
+      "ML_CS1": { "FACULTY_NAME": "Mr. Sankalp Nayak" },
+      "ML_CS2": { "FACULTY_NAME": "Prof. T. Kar" },
+      "ML_CS3": { "FACULTY_NAME": "Mr. Sohail Khan" },
+      "ML_CS4": { "FACULTY_NAME": "Dr. Ramesh Kumar Thakur" },
+      "ML_CS5": { "FACULTY_NAME": "Dr. Minakhi Rout" },
+      "ML_CS6": { "FACULTY_NAME": "Dr. Kumar Surjeet Chaudhury" },
+      "ML_CS7": { "FACULTY_NAME": "Prof. P. K. Samanta" },
+      "ML_CS8": { "FACULTY_NAME": "Dr. Satya Champati Rai" },
+      "ML_CS9": { "FACULTY_NAME": "Prof. Wriddhi Bhowmick" },
+      "ML_CS10": { "FACULTY_NAME": "Prof. A. Gorai" },
+      "ML_CS11": { "FACULTY_NAME": "Prof. T. Kar" },
+      "ML_CS12": { "FACULTY_NAME": "Mr. A Ranjith" },
+      "ML_CS13": { "FACULTY_NAME": "Mr. Chandra Shekhar" },
+      "ML_CS14": { "FACULTY_NAME": "Prof. A. Gorai" },
+      "ML_CS15": { "FACULTY_NAME": "Mr. Sunil Kumar Gouda" },
+      "ML_CS16": { "FACULTY_NAME": "Prof. Parveen Malik" },
+      "ML_CS17": { "FACULTY_NAME": "Mr. Nayan Kumar S. Behera" },
+      "ML_CS18": { "FACULTY_NAME": "Dr. Jayeeta Chakraborty" },
+      "ML_CS19": { "FACULTY_NAME": "Dr. Satya Champati Rai" },
+      "ML_CS20": { "FACULTY_NAME": "Dr. Partha Pratim Sarangi" },
+      "ML_CS21": { "FACULTY_NAME": "Dr. Rinku Datta Rakshit" },
+      "ML_CS22": { "FACULTY_NAME": "Dr. Babita Panda" },
+      "ML_CS23": { "FACULTY_NAME": "Dr. Pampa Sinha" },
+      "ML_CS24": { "FACULTY_NAME": "Prof. Subodh Kumar Mohanty" },
+      "ML_CS25": { "FACULTY_NAME": "Dr. Shubhasri Kundu" },
+      "ML_CS26": { "FACULTY_NAME": "Dr. Subrat Kumar Barik" },
+      "ML_CS27": { "FACULTY_NAME": "Dr. Padarbinda Samal" },
+      "IOT_CS1": { "FACULTY_NAME": "Mr. R. N. Ramakant Parida" },
+      "IOT_CS2": { "FACULTY_NAME": "Dr. Debachudamani Prusti" },
+      "IOT_CS3": { "FACULTY_NAME": "Mrs. Ronali Padhy" },
+      "IOT_CS4": { "FACULTY_NAME": "Prof. T. M. Behera" },
+      "IOT_CS5": { "FACULTY_NAME": "Dr. Hitesh Mahapatra" },
+      "IOT_CS6": { "FACULTY_NAME": "Dr. Banchhanidhi Dash" },
+      "IOT_CS7": { "FACULTY_NAME": "Prof. Akshaya Kumar Pati" },
+      "IOT_CS8": { "FACULTY_NAME": "Dr. Hitesh Mahapatra" },
+      "IOT_CS9": { "FACULTY_NAME": "Prof. A. Samui" },
+      "IOT_CS10": { "FACULTY_NAME": "Prof. T. M. Behera" },
+      "IOT_CS11": { "FACULTY_NAME": "Mr. Prasenjit Maiti" },
+      "IOT_CS12": { "FACULTY_NAME": "Prof. Deepak Kumar Rout" },
+      "IOT_CS13": { "FACULTY_NAME": "Prof. Swagat Das" }
+    },
+    "DE2": {
+      "NLP_CS1": { "FACULTY_NAME": "Mrs. Lipika Dewangan" },
+      "NLP_CS2": { "FACULTY_NAME": "Dr. Mainak Bandyopadhyay" },
+      "NLP_CS3": { "FACULTY_NAME": "Dr. Murari Mandal" },
+      "NLP_CS4": { "FACULTY_NAME": "Mrs. Lipika Dewangan" },
+      "NLP_CS5": { "FACULTY_NAME": "Dr. Mainak Bandyopadhyay" },
+      "NLP_CS6": { "FACULTY_NAME": "Dr. Ambika Prasad Mishra" },
+      "DA_CS1": { "FACULTY_NAME": "Dr. Satarupa Mohanty" },
+      "DA_CS2": { "FACULTY_NAME": "Dr. Pratyusa Mukherjee" },
+      "DA_CS3": { "FACULTY_NAME": "Dr. Subhadip Pramanik" },
+      "DA_CS4": { "FACULTY_NAME": "Dr. Abhaya Kumar Sahoo" },
+      "DA_CS5": { "FACULTY_NAME": "Mr. Abinas Panda" },
+      "DA_CS6": { "FACULTY_NAME": "Dr. Sarita Tripathy" },
+      "DA_CS7": { "FACULTY_NAME": "Mrs. Naliniprava Behera" },
+      "DA_CS8": { "FACULTY_NAME": "Dr. Nibedan Panda" },
+      "DA_CS9": { "FACULTY_NAME": "Mr. Pragma Kar" },
+      "DA_CS10": { "FACULTY_NAME": "Dr. Santosh Kumar Baliarsingh" },
+      "DA_CS11": { "FACULTY_NAME": "Mr. Deependra Singh" },
+      "DA_CS12": { "FACULTY_NAME": "Dr. Santwana Sagnika" },
+      "DA_CS13": { "FACULTY_NAME": "Mrs. Jayanti Dansana" },
+      "DA_CS14": { "FACULTY_NAME": "Mr. Vishal Meena" },
+      "DA_CS15": { "FACULTY_NAME": "Dr. Subhranshu Sekhar Tripathy" },
+      "DA_CS16": { "FACULTY_NAME": "Mr. Ajay Anand" },
+      "DA_CS17": { "FACULTY_NAME": "Mrs. Meghana G Raj" },
+      "DA_CS18": { "FACULTY_NAME": "Ms. Sricheta Parui" },
+      "DA_CS19": { "FACULTY_NAME": "Dr. Santosh Kumar Baliarsingh" },
+      "DA_CS20": { "FACULTY_NAME": "Mr. Pragma Kar" },
+      "DA_CS21": { "FACULTY_NAME": "Mr. Deependra Singh" },
+      "DA_CS22": { "FACULTY_NAME": "Dr. Subhadip Pramanik" },
+      "DA_CS23": { "FACULTY_NAME": "Dr. Mukesh Kumar" },
+      "DA_CS24": { "FACULTY_NAME": "Mr. Jhalak Hota" },
+      "DA_CS25": { "FACULTY_NAME": "Dr. Rajat Kumar Behera" },
+      "DA_CS26": { "FACULTY_NAME": "Dr. Soumya Ranjan Nayak" },
+      "DA_CS27": { "FACULTY_NAME": "Dr. Saikat Chakraborty" },
+      "DA_CS28": { "FACULTY_NAME": "Mr. Rabi Shaw" },
+      "DA_CS29": { "FACULTY_NAME": "Dr. Satarupa Mohanty" },
+      "DA_CS30": { "FACULTY_NAME": "Mr. Rabi Shaw" },
+      "DA_CS31": { "FACULTY_NAME": "Dr. Aleena Swetapadma" },
+      "DA_CS32": { "FACULTY_NAME": "Dr. Sarita Tripathy" },
+      "DA_CS33": { "FACULTY_NAME": "Mrs. Jayanti Dansana" },
+      "DA_CS34": { "FACULTY_NAME": "Dr. Santwana Sagnika" }
+    }
+  },
+  "IT": {
+    "DE1": {
+      "ML_IT1": { "FACULTY_NAME": "Prof. M. K. Beuria" },
+      "ML_IT2": { "FACULTY_NAME": "Prof. D. Mukherjee" },
+      "ML_IT3": { "FACULTY_NAME": "Prof. Wriddhi Bhowmick" },
+      "ML_IT4": { "FACULTY_NAME": "Prof. Vimal Ku Shrivastava" }
+    },
+    "DE2": {
+      "MC_IT1": { "FACULTY_NAME": "Dr. Monideepa Roy" },
+      "MC_IT2": { "FACULTY_NAME": "Dr. Pinaki Sankar Chatterjee" },
+      "MC_IT3": { "FACULTY_NAME": "Dr. Niranjan Kumar Ray" },
+      "OT_IT1": { "FACULTY_NAME": "Dr. Priyabrata Mohapatra" }
+    }
+  },
+  "CE": {
+    "DE1": {
+      "ML_CE1": { "FACULTY_NAME": "Mr. Amiya Kumar Dash" },
+      "IOT_CE1": { "FACULTY_NAME": "Dr. Debachudamani Prusti" }
+    },
+    "DE2": {
+      "WSN_CE1": { "FACULTY_NAME": "Prof. B. P. De" },
+      "SCS_CE1": { "FACULTY_NAME": "Prof.  M. Behera" }
+    }
+  },
+  "SE": {
+    "DE1": {
+      "DA_SE1": { "FACULTY_NAME": "Mr. Rohit Kumar Tiwari" },
+      "DA_SE2": { "FACULTY_NAME": "Dr. Pratyusa Mukherjee" }
+    },
+    "DE2": {
+      "DMDW_SE1": { "FACULTY_NAME": "Dr. Amiya Ranjan Panda" },
+      "DMDW_SE2": { "FACULTY_NAME": "Mr. Sampriti Soor" }
+    }
+  }
+}
