@@ -48,8 +48,8 @@ const Select = () => {
     setIsLoading(true);
 
     try {
-      const coreReq = api.post(`data/core_timetable.json`);
-      const electiveReq = api.post(`data/elective_timetable.json`);
+      const coreReq = api.get(`data/core_timetable.json`);
+      const electiveReq = api.get(`data/elective_timetable.json`);
 
       const [coreRes, electiveRes] = await Promise.all([coreReq, electiveReq]);
       const coreData = coreRes.data;
