@@ -93,30 +93,6 @@
         "SUBJECT": "ML(DE)",
         "ROOM": "B-202",
         "FACULTY_NAME": "Dr. Ramesh Kumar Thakur"
-      },
-      {
-        "TIME": "__EMPTY_6",
-        "SUBJECT": "12 to 1",
-        "ROOM": "B-202",
-        "FACULTY_NAME": "Dr. Ramesh Kumar Thakur"
-      },
-      {
-        "TIME": "__EMPTY_7",
-        "SUBJECT": "1 to 2 ",
-        "ROOM": "B-202",
-        "FACULTY_NAME": "Dr. Ramesh Kumar Thakur"
-      },
-      {
-        "TIME": "__EMPTY_8",
-        "SUBJECT": "2 to 3",
-        "ROOM": "B-202",
-        "FACULTY_NAME": "Dr. Ramesh Kumar Thakur"
-      },
-      {
-        "TIME": "__EMPTY_9",
-        "SUBJECT": "3 to 4",
-        "ROOM": "B-202",
-        "FACULTY_NAME": "Dr. Ramesh Kumar Thakur"
       }
     ],
     "TUE": [],
@@ -144,18 +120,6 @@
       {
         "TIME": "11-12",
         "SUBJECT": "ML(DE)",
-        "ROOM": "B-203",
-        "FACULTY_NAME": "Dr. Minakhi Rout"
-      },
-      {
-        "TIME": "__EMPTY_6",
-        "SUBJECT": "Elective Slot",
-        "ROOM": "B-203",
-        "FACULTY_NAME": "Dr. Minakhi Rout"
-      },
-      {
-        "TIME": "__EMPTY_7",
-        "SUBJECT": "Elective Slot",
         "ROOM": "B-203",
         "FACULTY_NAME": "Dr. Minakhi Rout"
       }
@@ -187,18 +151,6 @@
         "SUBJECT": "ML(DE)",
         "ROOM": "B-203",
         "FACULTY_NAME": "Dr. Kumar Surjeet Chaudhury"
-      },
-      {
-        "TIME": "__EMPTY_6",
-        "SUBJECT": "Elective Slot",
-        "ROOM": "B-203",
-        "FACULTY_NAME": "Dr. Kumar Surjeet Chaudhury"
-      },
-      {
-        "TIME": "__EMPTY_7",
-        "SUBJECT": "Elective Slot",
-        "ROOM": "B-203",
-        "FACULTY_NAME": "Dr. Kumar Surjeet Chaudhury"
       }
     ],
     "TUE": [],
@@ -226,12 +178,6 @@
       {
         "TIME": "11-12",
         "SUBJECT": "ML(DE)",
-        "ROOM": "B-204",
-        "FACULTY_NAME": "Prof. P. K. Samanta"
-      },
-      {
-        "TIME": "__EMPTY_9",
-        "SUBJECT": "Elective Slot",
         "ROOM": "B-204",
         "FACULTY_NAME": "Prof. P. K. Samanta"
       }
@@ -262,19 +208,7 @@
         "TIME": "1-2",
         "SUBJECT": "ML(DE)",
         "ROOM": "B-204",
-        "FACULTY_NAME": "Dr. Satya Champati Rai"
-      },
-      {
-        "TIME": "__EMPTY_6",
-        "SUBJECT": "Elective Slot",
-        "ROOM": "B-204",
-        "FACULTY_NAME": "Dr. Satya Champati Rai"
-      },
-      {
-        "TIME": "__EMPTY_7",
-        "SUBJECT": "Elective Slot",
-        "ROOM": "B-204",
-        "FACULTY_NAME": "Dr. Satya Champati Rai"
+        "FACULTY_NAME": "Dr. Satyananda Champati Rai"
       }
     ],
     "TUE": [],
@@ -283,7 +217,7 @@
         "TIME": "3-4",
         "SUBJECT": "ML(DE)",
         "ROOM": "B-204",
-        "FACULTY_NAME": "Dr. Satya Champati Rai"
+        "FACULTY_NAME": "Dr. Satyananda Champati Rai"
       }
     ],
     "THU": [
@@ -291,7 +225,7 @@
         "TIME": "11-12",
         "SUBJECT": "ML(DE)",
         "ROOM": "B-204",
-        "FACULTY_NAME": "Dr. Satya Champati Rai"
+        "FACULTY_NAME": "Dr. Satyananda Champati Rai"
       }
     ],
     "FRI": [],
@@ -302,12 +236,6 @@
       {
         "TIME": "11-12",
         "SUBJECT": "ML(DE)",
-        "ROOM": "B-205",
-        "FACULTY_NAME": "Prof. Wriddhi Bhowmick"
-      },
-      {
-        "TIME": "__EMPTY_9",
-        "SUBJECT": "Elective Slot",
         "ROOM": "B-205",
         "FACULTY_NAME": "Prof. Wriddhi Bhowmick"
       }
@@ -335,26 +263,26 @@
   "ML_CS10": {
     "MON": [
       {
-        "TIME": "1-2",
-        "SUBJECT": "ML(DE)",
-        "ROOM": "B-205",
-        "FACULTY_NAME": "Prof. A. Gorai"
-      }
-    ],
-    "TUE": [],
-    "WED": [
-      {
-        "TIME": "3-4",
-        "SUBJECT": "ML(DE)",
-        "ROOM": "B-205",
-        "FACULTY_NAME": "Prof. A. Gorai"
-      }
-    ],
-    "THU": [
-      {
         "TIME": "11-12",
         "SUBJECT": "ML(DE)",
-        "ROOM": "B-205",
+        "ROOM": "A-LH-104",
+        "FACULTY_NAME": "Prof. A. Gorai"
+      }
+    ],
+    "TUE": [
+      {
+        "TIME": "12-1",
+        "SUBJECT": "ML(DE)",
+        "ROOM": "A-LH-104",
+        "FACULTY_NAME": "Prof. A. Gorai"
+      }
+    ],
+    "WED": [],
+    "THU": [
+      {
+        "TIME": "1-2",
+        "SUBJECT": "ML(DE)",
+        "ROOM": "A-LH-104",
         "FACULTY_NAME": "Prof. A. Gorai"
       }
     ],
@@ -599,7 +527,7 @@
         "TIME": "11-12",
         "SUBJECT": "ML(DE)",
         "ROOM": "B-304",
-        "FACULTY_NAME": "Dr. Satya Champati Rai"
+        "FACULTY_NAME": "Dr. Satyananda Champati Rai"
       }
     ],
     "TUE": [
@@ -607,7 +535,7 @@
         "TIME": "12-1",
         "SUBJECT": "ML(DE)",
         "ROOM": "B-304",
-        "FACULTY_NAME": "Dr. Satya Champati Rai"
+        "FACULTY_NAME": "Dr. Satyananda Champati Rai"
       }
     ],
     "WED": [],
@@ -616,7 +544,7 @@
         "TIME": "1-2",
         "SUBJECT": "ML(DE)",
         "ROOM": "B-304",
-        "FACULTY_NAME": "Dr. Satya Champati Rai"
+        "FACULTY_NAME": "Dr. Satyananda Champati Rai"
       }
     ],
     "FRI": [],

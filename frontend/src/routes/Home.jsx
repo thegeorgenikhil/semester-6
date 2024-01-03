@@ -8,6 +8,14 @@ const Home = () => {
   const navigate = useNavigate();
 
   useEffect(() => {
+    const getVersionFromLocalStorage = JSON.parse(
+      localStorage.getItem("version")
+    );
+    if (getVersionFromLocalStorage !== "v2") {
+      localStorage.clear();
+      localStorage.setItem("version", JSON.stringify("v2"));
+      navigate("/select");
+    }
     const getTimetableFromLocalStorage = JSON.parse(
       localStorage.getItem("timetable")
     );
