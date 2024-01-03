@@ -12,9 +12,9 @@
       "CD": "Mrs. Lipika Mohanty",
       "CC": "Dr. Ambika Prasad Mishra",
       "SPM": "Mr. Arup Sarkar",
-      "T&T(L)": "Mrs. Lipika Dewangan",
+      "T&T(L)": "Mr. Sourav Kumar Giri",
       "CC(L)": "Dr. Ambika Prasad Mishra",
-      "TTL": "Mrs. Lipika Dewangan"
+      "TTL": "Mr. Sourav Kumar Giri"
     },
     "CSE3": {
       "CD": "Dr. Jasaswi Prasad Mohanty",
@@ -140,9 +140,9 @@
       "CD": "Dr. Abhishek Ray",
       "CC": "Dr. Roshni Pradhan",
       "SPM": "Dr. Jaydeep Das",
-      "T&T(L)": "Dr. Sujata Swain",
+      "T&T(L)": "Dr. Partha Sarathi Paul",
       "CC(L)": "Dr. Subhranshu Sekhar Tripathy",
-      "TTL": "Dr. Sujata Swain"
+      "TTL": "Dr. Partha Sarathi Paul"
     },
     "CSE19": {
       "CD": "Mr. Nayan Kumar S. Behera",
@@ -164,9 +164,9 @@
       "CD": "Dr. Bhaswati Sahoo",
       "CC": "Dr. Jaydeep Das",
       "SPM": "Dr. Kumar Devadutta",
-      "T&T(L)": "Mr. Vijay Kumar Meena",
+      "T&T(L)": "Dr. Junali Jasmine Jena",
       "CC(L)": "Dr. Jaydeep Das",
-      "TTL": "Mr. Vijay Kumar Meena"
+      "TTL": "Dr. Junali Jasmine Jena"
     },
     "CSE22": {
       "CD": "Dr. Ajaya Kumar Parida",
@@ -227,7 +227,7 @@
     "CSE29": {
       "CD": "Mrs. Lipika Dewangan",
       "CC": "Dr. Santosh Kumar Swain",
-      "SPM": "Dr. Jay Sarraf",
+      "SPM": "Ms. Uppada Gautami",
       "T&T(L)": "Mr. Deependra Singh",
       "CC(L)": "Dr. Santosh Kumar Swain",
       "TTL": "Mr. Deependra Singh"
@@ -315,12 +315,12 @@
   },
   "IT": {
     "IT1": {
-      "DA": "Dr. Abhaya Kumar Sahoo",
+      "DA": "Mr. Rohit Kumar Tiwari",
       "AI": "Dr. Madhabananda Das",
       "CC": "Mrs. Jayanti Dansana",
-      "T&T(L)": "Mr. N. Biraja Isac",
+      "T&T(L)": "Mrs. Lipika Dewangan",
       "DA(L)": "Dr. Bhabani Shankar Prasad Mishra",
-      "TTL": "Mr. N. Biraja Isac"
+      "TTL": "Mrs. Lipika Dewangan"
     },
     "IT2": {
       "DA": "Dr. Siddharth Swarup Rautaray",
@@ -331,7 +331,7 @@
       "TTL": "Mr. Lalit Kumar Vashishtha"
     },
     "IT3": {
-      "DA": "Mr. Rohit Kumar Tiwari",
+      "DA": "Dr. Abhaya Kumar Sahoo",
       "AI": "Dr. Madhabananda Das",
       "CC": "Mr. Sovan Kumar Sahoo",
       "T&T(L)": "Dr. Partha Sarathi Paul",

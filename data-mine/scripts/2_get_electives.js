@@ -4,7 +4,7 @@ const xlsx = require("xlsx");
 const sheet = xlsx.readFile("./timetable/timetable.xls");
 const sheetNames = sheet.SheetNames;
 
-let sheet_data = xlsx.utils.sheet_to_json(sheet.Sheets[sheetNames[2]]);
+let sheet_data = xlsx.utils.sheet_to_json(sheet.Sheets[sheetNames[0]]);
 
 let turnSwitch = false;
 
@@ -15,12 +15,13 @@ const electiveSectionsInfo = {};
 
 for (let i = 0; i < sheet_data.length; i++) {
   const currObj = sheet_data[i];
-  const section = currObj["School of Computer Engineering"];
+  const section = currObj["CSE"];
   if (section == "ML_CS") {
     turnSwitch = true;
   }
 
   if (turnSwitch) {
+    console.log(currObj);
     const secondV = Object.values(currObj)[1];
     if (secondV === "DE1" || secondV === "DE2") {
       currBranch = section.split("_")[1];
