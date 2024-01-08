@@ -679,31 +679,25 @@
   "CSE8": {
     "MON": [
       {
-        "TIME": "9-10",
+        "TIME": "10-11",
         "SUBJECT": "CD",
         "ROOM": "B-206",
         "FACULTY_NAME": "Mr. Ajay Anand"
       },
       {
-        "TIME": "10-11",
-        "SUBJECT": "CC",
-        "ROOM": "B-206",
-        "FACULTY_NAME": "Dr. Suneeta Mohanty"
+        "TIME": "3-4",
+        "SUBJECT": "SPM",
+        "ROOM": "A-LH-201",
+        "FACULTY_NAME": "Dr. Debachudamani Prusti"
       }
     ],
     "TUE": [],
     "WED": [
       {
-        "TIME": "3-4",
+        "TIME": "9-10",
         "SUBJECT": "CC",
-        "ROOM": "A-LH-107",
+        "ROOM": "A-LH-010",
         "FACULTY_NAME": "Dr. Suneeta Mohanty"
-      },
-      {
-        "TIME": "4-5",
-        "SUBJECT": "SPM",
-        "ROOM": "A-LH-107",
-        "FACULTY_NAME": "Dr. Debachudamani Prusti"
       }
     ],
     "THU": [
@@ -748,6 +742,12 @@
     ],
     "SAT": [
       {
+        "TIME": "9-10",
+        "SUBJECT": "CC",
+        "ROOM": "B-301",
+        "FACULTY_NAME": "Dr. Suneeta Mohanty"
+      },
+      {
         "TIME": "10-11",
         "SUBJECT": "SPM",
         "ROOM": "B-301",
@@ -756,19 +756,19 @@
       {
         "TIME": "3-4",
         "SUBJECT": "CD",
-        "ROOM": "B-404",
+        "ROOM": "B-406",
         "FACULTY_NAME": "Mr. Ajay Anand"
       },
       {
         "TIME": "4-5",
         "SUBJECT": "CC(L)",
-        "ROOM": "WL-102",
+        "ROOM": "A-DL-002",
         "FACULTY_NAME": "Dr. Suneeta Mohanty"
       },
       {
         "TIME": "5-6",
         "SUBJECT": "CC(L)",
-        "ROOM": "WL-102",
+        "ROOM": "A-DL-002",
         "FACULTY_NAME": "Dr. Suneeta Mohanty"
       }
     ]
@@ -795,12 +795,6 @@
       }
     ],
     "TUE": [
-      {
-        "TIME": "9-10",
-        "SUBJECT": "CD",
-        "ROOM": "B-206",
-        "FACULTY_NAME": "Mr. Nayan Kumar S. Behera"
-      },
       {
         "TIME": "10-11",
         "SUBJECT": "SPM",
@@ -833,6 +827,12 @@
         "SUBJECT": "CC",
         "ROOM": "B-202",
         "FACULTY_NAME": "Ms. Aradhana Behura"
+      },
+      {
+        "TIME": "5-6",
+        "SUBJECT": "CD",
+        "ROOM": "B-202",
+        "FACULTY_NAME": "Mr. Nayan Kumar S. Behera"
       }
     ],
     "FRI": [
@@ -995,6 +995,12 @@
     ],
     "TUE": [
       {
+        "TIME": "9-10",
+        "SUBJECT": "CD",
+        "ROOM": "B-302",
+        "FACULTY_NAME": "Mr. Amiya Kumar Dash"
+      },
+      {
         "TIME": "10-11",
         "SUBJECT": "SPM",
         "ROOM": "B-302",
@@ -1004,9 +1010,9 @@
     "WED": [
       {
         "TIME": "8-9",
-        "SUBJECT": "CD",
+        "SUBJECT": "CC",
         "ROOM": "B-206",
-        "FACULTY_NAME": "Mr. Amiya Kumar Dash"
+        "FACULTY_NAME": "Mr. Manas Ranjan Biswal"
       },
       {
         "TIME": "9-10",
@@ -1039,12 +1045,6 @@
         "SUBJECT": "SPM",
         "ROOM": "B-203",
         "FACULTY_NAME": "Dr. Manjusha Pandey"
-      },
-      {
-        "TIME": "4-5",
-        "SUBJECT": "CC",
-        "ROOM": "B-203",
-        "FACULTY_NAME": "Mr. Manas Ranjan Biswal"
       }
     ],
     "FRI": [],
@@ -1146,9 +1146,9 @@
     ],
     "FRI": [
       {
-        "TIME": "3-4",
+        "TIME": "10-11",
         "SUBJECT": "CC",
-        "ROOM": "A-LH-104",
+        "ROOM": "A-LH-105",
         "FACULTY_NAME": "Dr. Santosh Kumar Swain"
       }
     ],
@@ -1261,6 +1261,12 @@
   "CSE14": {
     "MON": [
       {
+        "TIME": "9-10",
+        "SUBJECT": "CD",
+        "ROOM": "B-302",
+        "FACULTY_NAME": "Mr. Tanik Saikh"
+      },
+      {
         "TIME": "10-11",
         "SUBJECT": "CC",
         "ROOM": "B-302",
@@ -1306,12 +1312,6 @@
         "SUBJECT": "T&T(L)",
         "ROOM": "A-DL-101",
         "FACULTY_NAME": "Mr. Sovan Kumar Sahoo"
-      },
-      {
-        "TIME": "3-4",
-        "SUBJECT": "CD",
-        "ROOM": "A-LH-004",
-        "FACULTY_NAME": "Mr. Tanik Saikh"
       }
     ],
     "FRI": [
@@ -1338,19 +1338,19 @@
       {
         "TIME": "3-4",
         "SUBJECT": "CD",
-        "ROOM": "B-406",
+        "ROOM": "B-404",
         "FACULTY_NAME": "Mr. Tanik Saikh"
       },
       {
         "TIME": "4-5",
         "SUBJECT": "CC(L)",
-        "ROOM": "A-DL-002",
+        "ROOM": "WL-102",
         "FACULTY_NAME": "Mrs. Ronali Padhy"
       },
       {
         "TIME": "5-6",
         "SUBJECT": "CC(L)",
-        "ROOM": "A-DL-002",
+        "ROOM": "WL-102",
         "FACULTY_NAME": "Mrs. Ronali Padhy"
       }
     ]
@@ -1453,14 +1453,15 @@
     ]
   },
   "CSE16": {
-    "MON": [],
-    "TUE": [
+    "MON": [
       {
-        "TIME": "10-11",
+        "TIME": "3-4",
         "SUBJECT": "SPM",
-        "ROOM": "B-304",
+        "ROOM": "A-LH-202",
         "FACULTY_NAME": "Ms. Priyanka Roy"
-      },
+      }
+    ],
+    "TUE": [
       {
         "TIME": "3-4",
         "SUBJECT": "CD",
@@ -2522,13 +2523,13 @@
         "TIME": "9-10",
         "SUBJECT": "CC(L)",
         "ROOM": "A-DL-106",
-        "FACULTY_NAME": "Dr. Jay Sarraf"
+        "FACULTY_NAME": "Mr. Kamalesh Karmakar"
       },
       {
         "TIME": "10-11",
         "SUBJECT": "CC(L)",
         "ROOM": "A-DL-106",
-        "FACULTY_NAME": "Dr. Jay Sarraf"
+        "FACULTY_NAME": "Mr. Kamalesh Karmakar"
       },
       {
         "TIME": "3-4",
@@ -2736,7 +2737,7 @@
         "TIME": "8-9",
         "SUBJECT": "SPM",
         "ROOM": "B-401",
-        "FACULTY_NAME": "Ms. Uppada Gautami"
+        "FACULTY_NAME": "Dr. Saurabh Jha"
       },
       {
         "TIME": "9-10",
@@ -2763,7 +2764,7 @@
         "TIME": "4-5",
         "SUBJECT": "SPM",
         "ROOM": "B-302",
-        "FACULTY_NAME": "Ms. Uppada Gautami"
+        "FACULTY_NAME": "Dr. Saurabh Jha"
       },
       {
         "TIME": "5-6",
@@ -2776,15 +2777,15 @@
     "SAT": [
       {
         "TIME": "9-10",
-        "SUBJECT": "CC",
+        "SUBJECT": "SPM",
         "ROOM": "B-405",
-        "FACULTY_NAME": "Dr. Santosh Kumar Swain"
+        "FACULTY_NAME": "Dr. Saurabh Jha"
       },
       {
         "TIME": "10-11",
-        "SUBJECT": "SPM",
+        "SUBJECT": "CC",
         "ROOM": "B-405",
-        "FACULTY_NAME": "Ms. Uppada Gautami"
+        "FACULTY_NAME": "Dr. Santosh Kumar Swain"
       },
       {
         "TIME": "11-12",
@@ -3670,9 +3671,9 @@
         "FACULTY_NAME": "Mrs. Lipika Dewangan"
       },
       {
-        "TIME": "11-12",
+        "TIME": "12-1",
         "SUBJECT": "CC",
-        "ROOM": "B-205",
+        "ROOM": "A-LH-104",
         "FACULTY_NAME": "Dr. Suneeta Mohanty"
       }
     ]
@@ -3890,12 +3891,6 @@
         "SUBJECT": "CC",
         "ROOM": "B-203",
         "FACULTY_NAME": "Dr. Bhaswati Sahoo"
-      },
-      {
-        "TIME": "3-4",
-        "SUBJECT": "AI",
-        "ROOM": "B-404",
-        "FACULTY_NAME": "Dr. Debanjan Pathak"
       }
     ],
     "TUE": [
@@ -3965,6 +3960,12 @@
         "SUBJECT": "CC",
         "ROOM": "B-402",
         "FACULTY_NAME": "Dr. Bhaswati Sahoo"
+      },
+      {
+        "TIME": "4-5",
+        "SUBJECT": "AI",
+        "ROOM": "B-402",
+        "FACULTY_NAME": "Dr. Debanjan Pathak"
       }
     ]
   },
@@ -4172,12 +4173,6 @@
       },
       {
         "TIME": "4-5",
-        "SUBJECT": "DA",
-        "ROOM": "B-201",
-        "FACULTY_NAME": "Dr. Suneeta Mohanty"
-      },
-      {
-        "TIME": "5-6",
         "SUBJECT": "CC",
         "ROOM": "B-201",
         "FACULTY_NAME": "Mrs. Subhashree Darshana"
@@ -4237,6 +4232,12 @@
       }
     ],
     "FRI": [
+      {
+        "TIME": "8-9",
+        "SUBJECT": "DA",
+        "ROOM": "B-202",
+        "FACULTY_NAME": "Dr. Suneeta Mohanty"
+      },
       {
         "TIME": "9-10",
         "SUBJECT": "CC",

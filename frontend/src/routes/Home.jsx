@@ -11,9 +11,9 @@ const Home = () => {
     const getVersionFromLocalStorage = JSON.parse(
       localStorage.getItem("version")
     );
-    if (getVersionFromLocalStorage !== "v2") {
+    if (getVersionFromLocalStorage !== "v3") {
       localStorage.clear();
-      localStorage.setItem("version", JSON.stringify("v2"));
+      localStorage.setItem("version", JSON.stringify("v3"));
       navigate("/select");
     }
     const getTimetableFromLocalStorage = JSON.parse(
