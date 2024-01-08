@@ -14,7 +14,7 @@ for (const key in coreSectionInfo) {
 const sheet = xlsx.readFile("./timetable/timetable.xls");
 const sheetNames = sheet.SheetNames;
 
-let sheet_data = xlsx.utils.sheet_to_json(sheet.Sheets[sheetNames[3]]);
+let sheet_data = xlsx.utils.sheet_to_json(sheet.Sheets[sheetNames[2]]);
 
 const timetable = {};
 

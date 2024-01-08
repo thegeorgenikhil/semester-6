@@ -105,8 +105,8 @@
       "IOT_CE1": { "FACULTY_NAME": "Dr. Debachudamani Prusti" }
     },
     "DE2": {
-      "WSN_CE1": { "FACULTY_NAME": "Prof. B. P. De" },
-      "SCS_CE1": { "FACULTY_NAME": "Prof.  M. Behera" }
+      "WSN_CE1": { "FACULTY_NAME": "Prof.  M. Behera" },
+      "SCS_CE1": { "FACULTY_NAME": "Prof. B. P. De" }
     }
   },
   "SE": {
