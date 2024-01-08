@@ -9,11 +9,11 @@ const Home = () => {
 
   useEffect(() => {
     const getVersionFromLocalStorage = JSON.parse(
-      localStorage.getItem("version")
+      localStorage.getItem("v")
     );
     if (getVersionFromLocalStorage !== "v4") {
       localStorage.clear();
-      localStorage.setItem("version", JSON.stringify("v4"));
+      localStorage.setItem("v", JSON.stringify("v4"));
       navigate("/select");
     }
     const getTimetableFromLocalStorage = JSON.parse(
